@@ -1,0 +1,13 @@
+C:\codebits-academy\html5\C#\labtask7&8\shapestest\obj\Debug\netcoreapp3.1\ShapesTest.csprojAssemblyReference.cache
+C:\codebits-academy\html5\C#\labtask7&8\shapestest\obj\Debug\netcoreapp3.1\ShapesTest.csproj.CoreCompileInputs.cache
+C:\codebits-academy\html5\C#\labtask7&8\shapestest\obj\Debug\netcoreapp3.1\ShapesTest.AssemblyInfoInputs.cache
+C:\codebits-academy\html5\C#\labtask7&8\shapestest\obj\Debug\netcoreapp3.1\ShapesTest.AssemblyInfo.cs
+C:\codebits-academy\html5\C#\labtask7&8\shapestest\bin\Debug\netcoreapp3.1\ShapesTest.exe
+C:\codebits-academy\html5\C#\labtask7&8\shapestest\bin\Debug\netcoreapp3.1\ShapesTest.deps.json
+C:\codebits-academy\html5\C#\labtask7&8\shapestest\bin\Debug\netcoreapp3.1\ShapesTest.runtimeconfig.json
+C:\codebits-academy\html5\C#\labtask7&8\shapestest\bin\Debug\netcoreapp3.1\ShapesTest.runtimeconfig.dev.json
+C:\codebits-academy\html5\C#\labtask7&8\shapestest\bin\Debug\netcoreapp3.1\ShapesTest.dll
+C:\codebits-academy\html5\C#\labtask7&8\shapestest\bin\Debug\netcoreapp3.1\ShapesTest.pdb
+C:\codebits-academy\html5\C#\labtask7&8\shapestest\obj\Debug\netcoreapp3.1\ShapesTest.dll
+C:\codebits-academy\html5\C#\labtask7&8\shapestest\obj\Debug\netcoreapp3.1\ShapesTest.pdb
+C:\codebits-academy\html5\C#\labtask7&8\shapestest\obj\Debug\netcoreapp3.1\ShapesTest.genruntimeconfig.cache
